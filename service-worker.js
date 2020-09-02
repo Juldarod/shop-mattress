@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/shop-mattress/precache-manifest.ff7e1ae4a673d84bdd9e6e01ff2bdf3c.js"
+  "/shop-mattress/precache-manifest.32eacde7484a726d5c39b54934b6ad46.js"
 );
 
 self.addEventListener('message', (event) => {
