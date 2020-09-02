@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/shop-mattress/static/css/main.58873086.chunk.css",
-    "main.js": "/shop-mattress/static/js/main.5f7c399b.chunk.js",
-    "main.js.map": "/shop-mattress/static/js/main.5f7c399b.chunk.js.map",
+    "main.css": "/shop-mattress/static/css/main.e6033fe8.chunk.css",
+    "main.js": "/shop-mattress/static/js/main.51d628ce.chunk.js",
+    "main.js.map": "/shop-mattress/static/js/main.51d628ce.chunk.js.map",
     "runtime-main.js": "/shop-mattress/static/js/runtime-main.63ce872f.js",
     "runtime-main.js.map": "/shop-mattress/static/js/runtime-main.63ce872f.js.map",
-    "static/js/2.c0b955b4.chunk.js": "/shop-mattress/static/js/2.c0b955b4.chunk.js",
-    "static/js/2.c0b955b4.chunk.js.map": "/shop-mattress/static/js/2.c0b955b4.chunk.js.map",
+    "static/js/2.ca5f0ba5.chunk.js": "/shop-mattress/static/js/2.ca5f0ba5.chunk.js",
+    "static/js/2.ca5f0ba5.chunk.js.map": "/shop-mattress/static/js/2.ca5f0ba5.chunk.js.map",
     "index.html": "/shop-mattress/index.html",
-    "precache-manifest.9cb687730909fa4709736c1eb4d25527.js": "/shop-mattress/precache-manifest.9cb687730909fa4709736c1eb4d25527.js",
+    "precache-manifest.ff7e1ae4a673d84bdd9e6e01ff2bdf3c.js": "/shop-mattress/precache-manifest.ff7e1ae4a673d84bdd9e6e01ff2bdf3c.js",
     "service-worker.js": "/shop-mattress/service-worker.js",
-    "static/css/main.58873086.chunk.css.map": "/shop-mattress/static/css/main.58873086.chunk.css.map",
-    "static/js/2.c0b955b4.chunk.js.LICENSE.txt": "/shop-mattress/static/js/2.c0b955b4.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/shop-mattress/static/media/logo.ee7cd8ed.svg"
+    "static/css/main.e6033fe8.chunk.css.map": "/shop-mattress/static/css/main.e6033fe8.chunk.css.map",
+    "static/js/2.ca5f0ba5.chunk.js.LICENSE.txt": "/shop-mattress/static/js/2.ca5f0ba5.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/shop-mattress/static/media/SourceSerifPro-SemiBoldItalic.f1b3c806.ttf",
+    "static/media/cart.svg": "/shop-mattress/static/media/cart.6b752e3a.svg",
+    "static/media/classic-carousel.jpg": "/shop-mattress/static/media/classic-carousel.eaa08b4f.jpg",
+    "static/media/logo.svg": "/shop-mattress/static/media/logo.1fc97733.svg",
+    "static/media/loom-carousel.jpg": "/shop-mattress/static/media/loom-carousel.024fc5fc.jpg",
+    "static/media/zen-carousel.jpg": "/shop-mattress/static/media/zen-carousel.28334218.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.63ce872f.js",
-    "static/js/2.c0b955b4.chunk.js",
-    "static/css/main.58873086.chunk.css",
-    "static/js/main.5f7c399b.chunk.js"
+    "static/js/2.ca5f0ba5.chunk.js",
+    "static/css/main.e6033fe8.chunk.css",
+    "static/js/main.51d628ce.chunk.js"
   ]
 }
