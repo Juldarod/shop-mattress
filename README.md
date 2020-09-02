@@ -1,24 +1,24 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Live Demo
+## Watch live Demo
 
 You can find a live demo of this app at https://juldarod.github.io/shop-mattress
 
 ## Run the app locally
 
-Clone the repo and in the project directory, run:
+Clone the repo and go the project directory, then run:
 
-## `yarn install`
+## `yarn install` or `npm install`
 
-## `yarn start`
+Installs all the dependencies needed to the project to run.
+
+## `yarn start` or `npm run start`
 
 Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open http://localhost:3000 to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Run tests
 
-## `yarn test`
+## `yarn test` or `npm run test`
 
 Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
