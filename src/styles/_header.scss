@@ -41,20 +41,20 @@
       }
 
       span {
-        position: absolute;
-        top: -30%;
-        right: -50%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        width: 20px;
-        height: 20px;
-        color: $white;
-        background-color: $cinnamon;
-        border-radius: 50%;
-        font-size: 0.6rem;
-        line-height: 1rem;
-      }
+          position: absolute;
+          top: -30%;
+          right: -50%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 20px;
+          height: 20px;
+          color: $white;
+          background-color: $cinnamon;
+          border-radius: 50%;
+          font-size: 0.6rem;
+          line-height: 1rem;
+        }
     }
   }
 }

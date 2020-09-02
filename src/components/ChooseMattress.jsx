@@ -20,11 +20,6 @@ export default function ChooseMattress() {
   const [selectedMattress, setSelectedMattress] = useState("classic");
 
   useEffect(() => {
-    console.log("oops");
-  });
-
-  useEffect(() => {
-    console.log("Printed for the first time");
     const _mattresses = [];
 
     for (const _mattress in data.mattresses) {

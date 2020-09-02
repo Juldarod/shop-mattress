@@ -24,7 +24,7 @@ export default function Header() {
         </a>
         <div className="header-container__cart-logo">
           <img src={cartLogo} alt="cart-logo" />
-          {cartCounter > 0 && <span>{cartCounter}</span>}
+          {cartCounter > 0 && <span data-testid="counter">{cartCounter}</span>}
         </div>
       </div>
     </header>

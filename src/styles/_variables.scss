@@ -1,18 +1,7 @@
 /* Fonts */
 $questrial-regular: "Questrial-Regular";
 
-$sourceSerifPro-black: "SourceSerifPro-Black";
-$sourceSerifPro-blackItalic: "SourceSerifPro-BlackItalic";
-$sourceSerifPro-bold: "SourceSerifPro-Bold";
-$sourceSerifPro-boldItalic: "SourceSerifPro-BoldItalic";
-$sourceSerifPro-extraLight: "SourceSerifPro-ExtraLight";
-$sourceSerifPro-extraLightItalic: "SourceSerifPro-ExtraLightItalic";
-$sourceSerifPro-italic: "SourceSerifPro-Italic";
-$sourceSerifPro-light: "SourceSerifPro-Light";
-$sourceSerifPro-lightItalic: "SourceSerifPro-LightItalic";
 $sourceSerifPro-regular: "SourceSerifPro-Regular";
-$sourceSerifPro-semiBold: "SourceSerifPro-SemiBold";
-$sourceSerifPro-semiBoldItalic: "SourceSerifPro-SemiBoldItalic";
 
 /* Breakpoints */
 $mobile-s: 319px;
@@ -22,23 +11,14 @@ $tablet: 1005px;
 $laptop: 1080px;
 $laptop-m: 1140px;
 
-/* Z-index */
-$z-back: -1;
-$z-none: 0;
-$z-floor: 1;
-$z-medium: 10;
-$z-up: 50;
-$z-top: 100;
-$z-super: 200;
-
 /* Site max width */
 $site-max-width: 1110px;
 
 /* Colors - Static*/
 $black: #000000;
 $cinnamon: #d5aa63;
-$light-cinnamon: #e2c492;
-$gray: #a6a19a;
-$nut: #fafafb;
 $coconut: #f6f5f3;
+$gray: #a6a19a;
+$light-cinnamon: #e2c492;
+$nut: #fafafb;
 $white: #ffffff;
