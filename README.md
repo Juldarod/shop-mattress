@@ -10,14 +10,16 @@ Clone the repo and go the project directory, then run:
 
 ## `yarn install` or `npm install`
 
-Installs all the dependencies needed to the project to run.
+Installs all the dependencies needed to run the project.
 
 ## `yarn start` or `npm run start`
 
 Runs the app in the development mode.<br />
 Open http://localhost:3000 to view it in the browser.
 
-## Run tests
+## Testing the app
+
+Go to the project directory, then run:
 
 ## `yarn test` or `npm run test`
 
